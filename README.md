@@ -21,3 +21,5 @@ Open http://localhost:4173.
 No build step or package installation is required. Displayed photographs use responsive WebP exports from the supplied Drive originals and full embedded slide media. See `ASSET_SOURCES.md` and `image-sources.json` for the permanent reference and source mapping.
 
 The site uses Google Fonts and links to Instagram and YouTube.
+
+The header language switch translates the portfolio between Arabic and English, changes reading direction, and remembers the selection in browser storage. Links can select a language with `?lang=ar` or `?lang=en`. Arabic remains the default for new visitors.
