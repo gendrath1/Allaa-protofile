@@ -1,0 +1,199 @@
+[
+  {
+    "asset": "alaa-behind-camera",
+    "source_type": "drive",
+    "source_file": "my photo/IMG_4705.jpg",
+    "crop": null,
+    "source_dimensions": [
+      2160,
+      3840
+    ],
+    "variants": [
+      {
+        "path": "assets/alaa-behind-camera.webp",
+        "width": 1012,
+        "height": 1800,
+        "bytes": 1107112
+      },
+      {
+        "path": "assets/alaa-behind-camera-small.webp",
+        "width": 506,
+        "height": 900,
+        "bytes": 271738
+      }
+    ]
+  },
+  {
+    "asset": "world-cup-boy",
+    "source_type": "deck",
+    "source_file": "image15.png",
+    "crop": null,
+    "source_dimensions": [
+      1152,
+      2048
+    ],
+    "variants": [
+      {
+        "path": "assets/world-cup-boy.webp",
+        "width": 1012,
+        "height": 1800,
+        "bytes": 119146
+      },
+      {
+        "path": "assets/world-cup-boy-small.webp",
+        "width": 506,
+        "height": 900,
+        "bytes": 47772
+      }
+    ]
+  },
+  {
+    "asset": "yaba-wall",
+    "source_type": "drive",
+    "source_file": "yaba/yaba 2.png",
+    "crop": null,
+    "source_dimensions": [
+      3840,
+      2160
+    ],
+    "variants": [
+      {
+        "path": "assets/yaba-wall.webp",
+        "width": 1800,
+        "height": 1013,
+        "bytes": 319112
+      },
+      {
+        "path": "assets/yaba-wall-small.webp",
+        "width": 900,
+        "height": 506,
+        "bytes": 100774
+      }
+    ]
+  },
+  {
+    "asset": "seven-stones-face",
+    "source_type": "drive",
+    "source_file": "the wall/٣.png",
+    "crop": null,
+    "source_dimensions": [
+      1440,
+      1080
+    ],
+    "variants": [
+      {
+        "path": "assets/seven-stones-face.webp",
+        "width": 1440,
+        "height": 1080,
+        "bytes": 144124
+      },
+      {
+        "path": "assets/seven-stones-face-small.webp",
+        "width": 900,
+        "height": 675,
+        "bytes": 67824
+      }
+    ]
+  },
+  {
+    "asset": "alex-track",
+    "source_type": "deck",
+    "source_file": "image30.jpg",
+    "crop": [
+      0,
+      0,
+      1081,
+      608
+    ],
+    "source_dimensions": [
+      1081,
+      608
+    ],
+    "variants": [
+      {
+        "path": "assets/alex-track.webp",
+        "width": 1081,
+        "height": 608,
+        "bytes": 140360
+      },
+      {
+        "path": "assets/alex-track-small.webp",
+        "width": 900,
+        "height": 506,
+        "bytes": 116122
+      }
+    ]
+  },
+  {
+    "asset": "why-not-artists",
+    "source_type": "deck",
+    "source_file": "image40.jpg",
+    "crop": null,
+    "source_dimensions": [
+      2048,
+      1365
+    ],
+    "variants": [
+      {
+        "path": "assets/why-not-artists.webp",
+        "width": 1800,
+        "height": 1200,
+        "bytes": 407954
+      },
+      {
+        "path": "assets/why-not-artists-small.webp",
+        "width": 900,
+        "height": 600,
+        "bytes": 140804
+      }
+    ]
+  },
+  {
+    "asset": "darwin-collective",
+    "source_type": "deck",
+    "source_file": "image6.jpg",
+    "crop": null,
+    "source_dimensions": [
+      2048,
+      1365
+    ],
+    "variants": [
+      {
+        "path": "assets/darwin-collective.webp",
+        "width": 1800,
+        "height": 1200,
+        "bytes": 524864
+      },
+      {
+        "path": "assets/darwin-collective-small.webp",
+        "width": 900,
+        "height": 600,
+        "bytes": 145440
+      }
+    ]
+  },
+  {
+    "asset": "darwin-gathering",
+    "source_type": "deck",
+    "source_file": "image10.jpg",
+    "crop": null,
+    "source_dimensions": [
+      2048,
+      1363
+    ],
+    "variants": [
+      {
+        "path": "assets/darwin-gathering.webp",
+        "width": 1800,
+        "height": 1198,
+        "bytes": 505768
+      },
+      {
+        "path": "assets/darwin-gathering-small.webp",
+        "width": 900,
+        "height": 599,
+        "bytes": 165966
+      }
+    ]
+  }
+]
